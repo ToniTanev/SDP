@@ -1,0 +1,3 @@
+Ideally, the hash function will assign each key to a unique bucket, but
+this situation is rarely achievable in practice (usually some keys will
+hash to the same bucket)

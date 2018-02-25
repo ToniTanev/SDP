@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1507983698 source:c:\users\toni\desktop\sdp\list_operators\arrayiterator.cpp
+	"arrayiterator.h"
+	<assert.h>
+
+1507983574 c:\users\toni\desktop\sdp\list_operators\arrayiterator.h
+	"baseiterator.h"
+
+1507983577 c:\users\toni\desktop\sdp\list_operators\baseiterator.h
+
+1508024964 source:c:\users\toni\desktop\sdp\list_operators\main.cpp
+	<iostream>
+	"list.h"
+	"arrayiterator.h"
+	"stringiterator.h"
+	"functioniterator.h"
+
+1507981493 c:\users\toni\desktop\sdp\list_operators\arrayiterator.cpp
+	"arrayiterator.h"
+	<assert.h>
+
+1507984198 c:\users\toni\desktop\sdp\list_operators\stringiterator.h
+	"baseiterator.h"
+
+1507984945 source:c:\users\toni\desktop\sdp\list_operators\stringiterator.cpp
+	"stringiterator.h"
+	<assert.h>
+
+1507994062 source:c:\users\toni\desktop\sdp\list_operators\functioniterator.cpp
+	"functioniterator.h"
+	<assert.h>
+
+1507994012 c:\users\toni\desktop\sdp\list_operators\functioniterator.h
+	"baseiterator.h"
+
+1508019732 c:\users\toni\desktop\sdp\list_operators\list.h
+
+1508024483 source:c:\users\toni\desktop\sdp\list_operators\list.cpp
+	"list.h"
+	"listiterator.h"
+	<iostream>
+	<cstdlib>
+
+1508024879 source:c:\users\toni\desktop\sdp\list_operators\listiterator.cpp
+	"listiterator.h"
+	<assert.h>
+	<cstdlib>
+
+1508024440 c:\users\toni\desktop\sdp\list_operators\listiterator.h
+	"baseiterator.h"
+	"list.h"
+
